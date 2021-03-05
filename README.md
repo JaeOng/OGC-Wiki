@@ -1,4 +1,4 @@
-# OGC-sme-review
+# OGC
 Group Assignment
 Changes made here yessir
 
